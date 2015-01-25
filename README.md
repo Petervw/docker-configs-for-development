@@ -24,4 +24,4 @@ docker inspect [instance_id] (Optional | jq .) | Inspect a Docker container and 
 Command | Description
 ------- | -----------
 docker build -t [image_url] . | Build a new Docker instance from image and the Dockerfile (dot means in current directory)
-docker run -Pd  [image_url]
+docker run -Pd  [image_url] | Run a recently created Docker instance and port forward the ports automatically
