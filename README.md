@@ -1,4 +1,4 @@
-# docker-configs-for-development
+# Docker configs for development (NginX)
 Some Dockerfile configs to create new development area's automatically.
 
 # Basic setup
