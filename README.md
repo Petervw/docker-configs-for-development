@@ -2,7 +2,13 @@
 Some Dockerfile configs to create new development area's automatically.
 
 # Basic setup
-First we need a VM to play with. I've used an empty vagrant machine to test Docker.
+To use a simple Dockerfile for installation, you need an empty Ubuntu (Virtual) machine. On that Ubuntu instance you need
+to (install Docker)[https://docs.docker.com/installation/ubuntulinux/] and make sure you have the latest updates installed.
+
+Update command in Ubuntu:
+```php
+sudo apt-get update
+```
 
 # List of handy Docker commands
 Command | Description
