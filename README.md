@@ -3,7 +3,7 @@ Some Dockerfile configs to create new development area's automatically.
 
 # Basic setup
 To use a simple Dockerfile for installation, you need an empty Ubuntu (Virtual) machine. On that Ubuntu instance you need
-to (install Docker)[https://docs.docker.com/installation/ubuntulinux/] and make sure you have the latest updates installed.
+to [install Docker](https://docs.docker.com/installation/ubuntulinux/) and make sure you have the latest updates installed.
 
 Update command in Ubuntu:
 ```php
